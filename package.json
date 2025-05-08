@@ -61,7 +61,7 @@
     "@emotion/is-prop-valid": "latest",
     "framer-motion": "latest",
     "stripe": "latest",
-    "@xaman/connect-sdk": "latest",
+    "xumm-sdk": "latest",
     "canvas-confetti": "latest",
     "@supabase/supabase-js": "latest",
     "@lottiefiles/dotlottie-react": "latest"
